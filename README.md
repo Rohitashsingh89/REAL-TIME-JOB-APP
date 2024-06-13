@@ -1,6 +1,7 @@
 # Real Time Job App
 ![Macbook-Air-localhost](https://github.com/Rohitashsingh89/REAL-TIME-JOB-APP/assets/93479842/0689cc4f-4c1d-49e7-a414-d1fd1a9ce99c)
 
+Live: https://hikeyourhire.vercel.app/
 
 ## Description
 The Real Time Job App is a web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This application allows users to view and apply for jobs, update their profiles and personal details, and includes an admin panel for managing users and job postings. The app features robust authentication, login, and registration functionalities, and implements all basic CRUD operations for job listings.
